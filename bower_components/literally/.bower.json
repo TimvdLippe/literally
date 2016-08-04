@@ -1,0 +1,43 @@
+{
+  "name": "literally",
+  "description": "Literally yet another presentation slide thingie",
+  "authors": [
+    "Monica Dinculescu <noms@google.com>"
+  ],
+  "keywords": [
+    "web-component",
+    "polymer",
+    "slide",
+    "presentation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/notwaldorf/literally.git"
+  },
+  "main": "index.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/notwaldorf/literally",
+  "ignore": [
+    "bower_components",
+    "deploy.sh",
+    "README.md"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0",
+    "iron-flex-layout": "polymerelements/iron-flex-layout#^1.0.0",
+    "neon-animation": "PolymerElements/neon-animation#^1.0.0"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "_release": "8ed5f6a504",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "8ed5f6a504ee8ce89705d47fc14479a3f102232e"
+  },
+  "_source": "git://github.com/notwaldorf/literally.git",
+  "_target": "*",
+  "_originalSource": "notwaldorf/literally",
+  "_direct": true
+}
